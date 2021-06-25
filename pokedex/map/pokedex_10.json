@@ -1,0 +1,2543 @@
+{
+    "skorupi": {
+        "id": 451,
+        "name": "skorupi",
+        "height": 8,
+        "weight": 120,
+        "xp": 66,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/451.png",
+        "abilities": [
+            {
+                "name": "battle-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "keen-eye",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ],
+        "types": [
+            {
+                "name": "poison"
+            },
+            {
+                "name": "bug"
+            }
+        ]
+    },
+    "drapion": {
+        "id": 452,
+        "name": "drapion",
+        "height": 13,
+        "weight": 615,
+        "xp": 175,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/452.png",
+        "abilities": [
+            {
+                "name": "battle-armor",
+                "is_hidden": false
+            },
+            {
+                "name": "sniper",
+                "is_hidden": false
+            },
+            {
+                "name": "keen-eye",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "poison"
+            },
+            {
+                "name": "dark"
+            }
+        ]
+    },
+    "croagunk": {
+        "id": 453,
+        "name": "croagunk",
+        "height": 7,
+        "weight": 230,
+        "xp": 60,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/453.png",
+        "abilities": [
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "dry-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "poison-touch",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 48
+            },
+            {
+                "name": "attack",
+                "base_stat": 61
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 61
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ],
+        "types": [
+            {
+                "name": "poison"
+            },
+            {
+                "name": "fighting"
+            }
+        ]
+    },
+    "toxicroak": {
+        "id": 454,
+        "name": "toxicroak",
+        "height": 13,
+        "weight": 444,
+        "xp": 172,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/454.png",
+        "abilities": [
+            {
+                "name": "anticipation",
+                "is_hidden": false
+            },
+            {
+                "name": "dry-skin",
+                "is_hidden": false
+            },
+            {
+                "name": "poison-touch",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 83
+            },
+            {
+                "name": "attack",
+                "base_stat": 106
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 86
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ],
+        "types": [
+            {
+                "name": "poison"
+            },
+            {
+                "name": "fighting"
+            }
+        ]
+    },
+    "carnivine": {
+        "id": 455,
+        "name": "carnivine",
+        "height": 14,
+        "weight": 270,
+        "xp": 159,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/455.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 74
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 72
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 72
+            },
+            {
+                "name": "speed",
+                "base_stat": 46
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "finneon": {
+        "id": 456,
+        "name": "finneon",
+        "height": 4,
+        "weight": 70,
+        "xp": 66,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/456.png",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 49
+            },
+            {
+                "name": "attack",
+                "base_stat": 49
+            },
+            {
+                "name": "defense",
+                "base_stat": 56
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 49
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 61
+            },
+            {
+                "name": "speed",
+                "base_stat": 66
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            }
+        ]
+    },
+    "lumineon": {
+        "id": 457,
+        "name": "lumineon",
+        "height": 12,
+        "weight": 240,
+        "xp": 161,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/457.png",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "storm-drain",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 69
+            },
+            {
+                "name": "attack",
+                "base_stat": 69
+            },
+            {
+                "name": "defense",
+                "base_stat": 76
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 69
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 86
+            },
+            {
+                "name": "speed",
+                "base_stat": 91
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            }
+        ]
+    },
+    "mantyke": {
+        "id": 458,
+        "name": "mantyke",
+        "height": 10,
+        "weight": 650,
+        "xp": 69,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/458.png",
+        "abilities": [
+            {
+                "name": "swift-swim",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": false
+            },
+            {
+                "name": "water-veil",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 20
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            },
+            {
+                "name": "flying"
+            }
+        ]
+    },
+    "snover": {
+        "id": 459,
+        "name": "snover",
+        "height": 10,
+        "weight": 505,
+        "xp": 67,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/459.png",
+        "abilities": [
+            {
+                "name": "snow-warning",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 62
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 62
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            },
+            {
+                "name": "ice"
+            }
+        ]
+    },
+    "abomasnow": {
+        "id": 460,
+        "name": "abomasnow",
+        "height": 22,
+        "weight": 1355,
+        "xp": 173,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/460.png",
+        "abilities": [
+            {
+                "name": "snow-warning",
+                "is_hidden": false
+            },
+            {
+                "name": "soundproof",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 92
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 92
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            },
+            {
+                "name": "ice"
+            }
+        ]
+    },
+    "weavile": {
+        "id": 461,
+        "name": "weavile",
+        "height": 11,
+        "weight": 340,
+        "xp": 179,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/461.png",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "pickpocket",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 125
+            }
+        ],
+        "types": [
+            {
+                "name": "dark"
+            },
+            {
+                "name": "ice"
+            }
+        ]
+    },
+    "magnezone": {
+        "id": 462,
+        "name": "magnezone",
+        "height": 12,
+        "weight": 1800,
+        "xp": 241,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/462.png",
+        "abilities": [
+            {
+                "name": "magnet-pull",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "analytic",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 115
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ],
+        "types": [
+            {
+                "name": "electric"
+            },
+            {
+                "name": "steel"
+            }
+        ]
+    },
+    "lickilicky": {
+        "id": 463,
+        "name": "lickilicky",
+        "height": 17,
+        "weight": 1400,
+        "xp": 180,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/463.png",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            },
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "cloud-nine",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ],
+        "types": [
+            {
+                "name": "normal"
+            }
+        ]
+    },
+    "rhyperior": {
+        "id": 464,
+        "name": "rhyperior",
+        "height": 24,
+        "weight": 2828,
+        "xp": 241,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/464.png",
+        "abilities": [
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "solid-rock",
+                "is_hidden": false
+            },
+            {
+                "name": "reckless",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 115
+            },
+            {
+                "name": "attack",
+                "base_stat": 140
+            },
+            {
+                "name": "defense",
+                "base_stat": 130
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ],
+        "types": [
+            {
+                "name": "ground"
+            },
+            {
+                "name": "rock"
+            }
+        ]
+    },
+    "tangrowth": {
+        "id": 465,
+        "name": "tangrowth",
+        "height": 20,
+        "weight": 1286,
+        "xp": 187,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/465.png",
+        "abilities": [
+            {
+                "name": "chlorophyll",
+                "is_hidden": false
+            },
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "regenerator",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 125
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "electivire": {
+        "id": 466,
+        "name": "electivire",
+        "height": 18,
+        "weight": 1386,
+        "xp": 243,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/466.png",
+        "abilities": [
+            {
+                "name": "motor-drive",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 123
+            },
+            {
+                "name": "defense",
+                "base_stat": 67
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "electric"
+            }
+        ]
+    },
+    "magmortar": {
+        "id": 467,
+        "name": "magmortar",
+        "height": 16,
+        "weight": 680,
+        "xp": 243,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/467.png",
+        "abilities": [
+            {
+                "name": "flame-body",
+                "is_hidden": false
+            },
+            {
+                "name": "vital-spirit",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 67
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 83
+            }
+        ],
+        "types": [
+            {
+                "name": "fire"
+            }
+        ]
+    },
+    "togekiss": {
+        "id": 468,
+        "name": "togekiss",
+        "height": 15,
+        "weight": 380,
+        "xp": 245,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/468.png",
+        "abilities": [
+            {
+                "name": "hustle",
+                "is_hidden": false
+            },
+            {
+                "name": "serene-grace",
+                "is_hidden": false
+            },
+            {
+                "name": "super-luck",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 115
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ],
+        "types": [
+            {
+                "name": "fairy"
+            },
+            {
+                "name": "flying"
+            }
+        ]
+    },
+    "yanmega": {
+        "id": 469,
+        "name": "yanmega",
+        "height": 19,
+        "weight": 515,
+        "xp": 180,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/469.png",
+        "abilities": [
+            {
+                "name": "speed-boost",
+                "is_hidden": false
+            },
+            {
+                "name": "tinted-lens",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 86
+            },
+            {
+                "name": "attack",
+                "base_stat": 76
+            },
+            {
+                "name": "defense",
+                "base_stat": 86
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 116
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 56
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "bug"
+            },
+            {
+                "name": "flying"
+            }
+        ]
+    },
+    "leafeon": {
+        "id": 470,
+        "name": "leafeon",
+        "height": 10,
+        "weight": 255,
+        "xp": 184,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/470.png",
+        "abilities": [
+            {
+                "name": "leaf-guard",
+                "is_hidden": false
+            },
+            {
+                "name": "chlorophyll",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 130
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "glaceon": {
+        "id": 471,
+        "name": "glaceon",
+        "height": 8,
+        "weight": 259,
+        "xp": 184,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/471.png",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "ice-body",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ],
+        "types": [
+            {
+                "name": "ice"
+            }
+        ]
+    },
+    "gliscor": {
+        "id": 472,
+        "name": "gliscor",
+        "height": 20,
+        "weight": 425,
+        "xp": 179,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/472.png",
+        "abilities": [
+            {
+                "name": "hyper-cutter",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-veil",
+                "is_hidden": false
+            },
+            {
+                "name": "poison-heal",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 125
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "ground"
+            },
+            {
+                "name": "flying"
+            }
+        ]
+    },
+    "mamoswine": {
+        "id": 473,
+        "name": "mamoswine",
+        "height": 25,
+        "weight": 2910,
+        "xp": 239,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/473.png",
+        "abilities": [
+            {
+                "name": "oblivious",
+                "is_hidden": false
+            },
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110
+            },
+            {
+                "name": "attack",
+                "base_stat": 130
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ],
+        "types": [
+            {
+                "name": "ice"
+            },
+            {
+                "name": "ground"
+            }
+        ]
+    },
+    "porygon-z": {
+        "id": 474,
+        "name": "porygon-z",
+        "height": 9,
+        "weight": 340,
+        "xp": 241,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/474.png",
+        "abilities": [
+            {
+                "name": "adaptability",
+                "is_hidden": false
+            },
+            {
+                "name": "download",
+                "is_hidden": false
+            },
+            {
+                "name": "analytic",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ],
+        "types": [
+            {
+                "name": "normal"
+            }
+        ]
+    },
+    "gallade": {
+        "id": 475,
+        "name": "gallade",
+        "height": 16,
+        "weight": 520,
+        "xp": 233,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/475.png",
+        "abilities": [
+            {
+                "name": "steadfast",
+                "is_hidden": false
+            },
+            {
+                "name": "justified",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 68
+            },
+            {
+                "name": "attack",
+                "base_stat": 125
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 115
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            },
+            {
+                "name": "fighting"
+            }
+        ]
+    },
+    "probopass": {
+        "id": 476,
+        "name": "probopass",
+        "height": 14,
+        "weight": 3400,
+        "xp": 184,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/476.png",
+        "abilities": [
+            {
+                "name": "sturdy",
+                "is_hidden": false
+            },
+            {
+                "name": "magnet-pull",
+                "is_hidden": false
+            },
+            {
+                "name": "sand-force",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 145
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 150
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ],
+        "types": [
+            {
+                "name": "rock"
+            },
+            {
+                "name": "steel"
+            }
+        ]
+    },
+    "dusknoir": {
+        "id": 477,
+        "name": "dusknoir",
+        "height": 22,
+        "weight": 1066,
+        "xp": 236,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/477.png",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "frisk",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 135
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 135
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ],
+        "types": [
+            {
+                "name": "ghost"
+            }
+        ]
+    },
+    "froslass": {
+        "id": 478,
+        "name": "froslass",
+        "height": 13,
+        "weight": 266,
+        "xp": 168,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/478.png",
+        "abilities": [
+            {
+                "name": "snow-cloak",
+                "is_hidden": false
+            },
+            {
+                "name": "cursed-body",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ],
+        "types": [
+            {
+                "name": "ice"
+            },
+            {
+                "name": "ghost"
+            }
+        ]
+    },
+    "rotom": {
+        "id": 479,
+        "name": "rotom",
+        "height": 3,
+        "weight": 3,
+        "xp": 154,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/479.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 77
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 77
+            },
+            {
+                "name": "speed",
+                "base_stat": 91
+            }
+        ],
+        "types": [
+            {
+                "name": "electric"
+            },
+            {
+                "name": "ghost"
+            }
+        ]
+    },
+    "uxie": {
+        "id": 480,
+        "name": "uxie",
+        "height": 3,
+        "weight": 3,
+        "xp": 261,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/480.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 130
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 130
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            }
+        ]
+    },
+    "mesprit": {
+        "id": 481,
+        "name": "mesprit",
+        "height": 3,
+        "weight": 3,
+        "xp": 261,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/481.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 105
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 105
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 105
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            }
+        ]
+    },
+    "azelf": {
+        "id": 482,
+        "name": "azelf",
+        "height": 3,
+        "weight": 3,
+        "xp": 261,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/482.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 125
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 115
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            }
+        ]
+    },
+    "dialga": {
+        "id": 483,
+        "name": "dialga",
+        "height": 54,
+        "weight": 6830,
+        "xp": 306,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/483.png",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 150
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ],
+        "types": [
+            {
+                "name": "steel"
+            },
+            {
+                "name": "dragon"
+            }
+        ]
+    },
+    "palkia": {
+        "id": 484,
+        "name": "palkia",
+        "height": 42,
+        "weight": 3360,
+        "xp": 306,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/484.png",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 150
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            },
+            {
+                "name": "dragon"
+            }
+        ]
+    },
+    "heatran": {
+        "id": 485,
+        "name": "heatran",
+        "height": 17,
+        "weight": 4300,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/485.png",
+        "abilities": [
+            {
+                "name": "flash-fire",
+                "is_hidden": false
+            },
+            {
+                "name": "flame-body",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 91
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 106
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 106
+            },
+            {
+                "name": "speed",
+                "base_stat": 77
+            }
+        ],
+        "types": [
+            {
+                "name": "fire"
+            },
+            {
+                "name": "steel"
+            }
+        ]
+    },
+    "regigigas": {
+        "id": 486,
+        "name": "regigigas",
+        "height": 37,
+        "weight": 4200,
+        "xp": 302,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/486.png",
+        "abilities": [
+            {
+                "name": "slow-start",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110
+            },
+            {
+                "name": "attack",
+                "base_stat": 160
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ],
+        "types": [
+            {
+                "name": "normal"
+            }
+        ]
+    },
+    "giratina-altered": {
+        "id": 487,
+        "name": "giratina-altered",
+        "height": 45,
+        "weight": 7500,
+        "xp": 306,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/487.png",
+        "abilities": [
+            {
+                "name": "pressure",
+                "is_hidden": false
+            },
+            {
+                "name": "telepathy",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 150
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ],
+        "types": [
+            {
+                "name": "ghost"
+            },
+            {
+                "name": "dragon"
+            }
+        ]
+    },
+    "cresselia": {
+        "id": 488,
+        "name": "cresselia",
+        "height": 15,
+        "weight": 856,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/488.png",
+        "abilities": [
+            {
+                "name": "levitate",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 120
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 130
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            }
+        ]
+    },
+    "phione": {
+        "id": 489,
+        "name": "phione",
+        "height": 4,
+        "weight": 31,
+        "xp": 216,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/489.png",
+        "abilities": [
+            {
+                "name": "hydration",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            }
+        ]
+    },
+    "manaphy": {
+        "id": 490,
+        "name": "manaphy",
+        "height": 3,
+        "weight": 14,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/490.png",
+        "abilities": [
+            {
+                "name": "hydration",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            }
+        ]
+    },
+    "darkrai": {
+        "id": 491,
+        "name": "darkrai",
+        "height": 15,
+        "weight": 505,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/491.png",
+        "abilities": [
+            {
+                "name": "bad-dreams",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 125
+            }
+        ],
+        "types": [
+            {
+                "name": "dark"
+            }
+        ]
+    },
+    "shaymin-land": {
+        "id": 492,
+        "name": "shaymin-land",
+        "height": 2,
+        "weight": 21,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/492.png",
+        "abilities": [
+            {
+                "name": "natural-cure",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "arceus": {
+        "id": 493,
+        "name": "arceus",
+        "height": 32,
+        "weight": 3200,
+        "xp": 324,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/493.png",
+        "abilities": [
+            {
+                "name": "multitype",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 120
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 120
+            }
+        ],
+        "types": [
+            {
+                "name": "normal"
+            }
+        ]
+    },
+    "victini": {
+        "id": 494,
+        "name": "victini",
+        "height": 4,
+        "weight": 40,
+        "xp": 270,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/494.png",
+        "abilities": [
+            {
+                "name": "victory-star",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            },
+            {
+                "name": "fire"
+            }
+        ]
+    },
+    "snivy": {
+        "id": 495,
+        "name": "snivy",
+        "height": 6,
+        "weight": 81,
+        "xp": 62,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/495.png",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 63
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "servine": {
+        "id": 496,
+        "name": "servine",
+        "height": 8,
+        "weight": 160,
+        "xp": 145,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/496.png",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 83
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "serperior": {
+        "id": 497,
+        "name": "serperior",
+        "height": 33,
+        "weight": 630,
+        "xp": 238,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/497.png",
+        "abilities": [
+            {
+                "name": "overgrow",
+                "is_hidden": false
+            },
+            {
+                "name": "contrary",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 113
+            }
+        ],
+        "types": [
+            {
+                "name": "grass"
+            }
+        ]
+    },
+    "tepig": {
+        "id": 498,
+        "name": "tepig",
+        "height": 5,
+        "weight": 99,
+        "xp": 62,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/498.png",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 63
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ],
+        "types": [
+            {
+                "name": "fire"
+            }
+        ]
+    },
+    "pignite": {
+        "id": 499,
+        "name": "pignite",
+        "height": 10,
+        "weight": 555,
+        "xp": 146,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/499.png",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "thick-fat",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 93
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ],
+        "types": [
+            {
+                "name": "fire"
+            },
+            {
+                "name": "fighting"
+            }
+        ]
+    },
+    "emboar": {
+        "id": 500,
+        "name": "emboar",
+        "height": 16,
+        "weight": 1500,
+        "xp": 238,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/500.png",
+        "abilities": [
+            {
+                "name": "blaze",
+                "is_hidden": false
+            },
+            {
+                "name": "reckless",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 110
+            },
+            {
+                "name": "attack",
+                "base_stat": 123
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ],
+        "types": [
+            {
+                "name": "fire"
+            },
+            {
+                "name": "fighting"
+            }
+        ]
+    }
+}

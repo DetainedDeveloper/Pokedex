@@ -1,0 +1,344 @@
+[
+    {
+        "id": 10151,
+        "name": "rockruff-own-tempo",
+        "height": 5,
+        "weight": 92,
+        "xp": 56,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10151.png",
+        "abilities": [
+            {
+                "name": "own-tempo",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ],
+        "types": [
+            {
+                "name": "rock"
+            }
+        ]
+    },
+    {
+        "id": 10152,
+        "name": "lycanroc-dusk",
+        "height": 8,
+        "weight": 250,
+        "xp": 170,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10152.png",
+        "abilities": [
+            {
+                "name": "tough-claws",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 117
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ],
+        "types": [
+            {
+                "name": "rock"
+            }
+        ]
+    },
+    {
+        "id": 10153,
+        "name": "araquanid-totem",
+        "height": 31,
+        "weight": 2175,
+        "xp": 159,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10153.png",
+        "abilities": [
+            {
+                "name": "water-bubble",
+                "is_hidden": false
+            },
+            {
+                "name": "water-absorb",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 68
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 92
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 132
+            },
+            {
+                "name": "speed",
+                "base_stat": 42
+            }
+        ],
+        "types": [
+            {
+                "name": "water"
+            },
+            {
+                "name": "bug"
+            }
+        ]
+    },
+    {
+        "id": 10154,
+        "name": "togedemaru-totem",
+        "height": 6,
+        "weight": 130,
+        "xp": 152,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10154.png",
+        "abilities": [
+            {
+                "name": "iron-barbs",
+                "is_hidden": false
+            },
+            {
+                "name": "lightning-rod",
+                "is_hidden": false
+            },
+            {
+                "name": "sturdy",
+                "is_hidden": true
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 98
+            },
+            {
+                "name": "defense",
+                "base_stat": 63
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 73
+            },
+            {
+                "name": "speed",
+                "base_stat": 96
+            }
+        ],
+        "types": [
+            {
+                "name": "electric"
+            },
+            {
+                "name": "steel"
+            }
+        ]
+    },
+    {
+        "id": 10155,
+        "name": "necrozma-dusk",
+        "height": 38,
+        "weight": 4600,
+        "xp": 306,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10155.png",
+        "abilities": [
+            {
+                "name": "prism-armor",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 97
+            },
+            {
+                "name": "attack",
+                "base_stat": 157
+            },
+            {
+                "name": "defense",
+                "base_stat": 127
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 113
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 109
+            },
+            {
+                "name": "speed",
+                "base_stat": 77
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            },
+            {
+                "name": "steel"
+            }
+        ]
+    },
+    {
+        "id": 10156,
+        "name": "necrozma-dawn",
+        "height": 42,
+        "weight": 3500,
+        "xp": 306,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10156.png",
+        "abilities": [
+            {
+                "name": "prism-armor",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 97
+            },
+            {
+                "name": "attack",
+                "base_stat": 113
+            },
+            {
+                "name": "defense",
+                "base_stat": 109
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 157
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 127
+            },
+            {
+                "name": "speed",
+                "base_stat": 77
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            },
+            {
+                "name": "ghost"
+            }
+        ]
+    },
+    {
+        "id": 10157,
+        "name": "necrozma-ultra",
+        "height": 75,
+        "weight": 2300,
+        "xp": 339,
+        "image_url": "https://pokeres.bastionbot.org/images/pokemon/10157.png",
+        "abilities": [
+            {
+                "name": "neuroforce",
+                "is_hidden": false
+            }
+        ],
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 97
+            },
+            {
+                "name": "attack",
+                "base_stat": 167
+            },
+            {
+                "name": "defense",
+                "base_stat": 97
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 167
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 97
+            },
+            {
+                "name": "speed",
+                "base_stat": 129
+            }
+        ],
+        "types": [
+            {
+                "name": "psychic"
+            },
+            {
+                "name": "dragon"
+            }
+        ]
+    }
+]
