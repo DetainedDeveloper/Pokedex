@@ -1,5 +1,5 @@
 # Pokedex
-JSON data of 890 pokemons in both, a [single file](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex_raw) and a [categorized folder](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex) in array and map structures. Scraped using [Pokemon Data Scraper](https://github.com/DetainedDeveloper/Pokemon-Data-Scraper)
+JSON data of 890 pokemons in both, a [single file](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex_raw) and a [categorized folder](https://github.com/DetainedDeveloper/Pokedex/tree/main/pokedex) in **`array[]`** and **`map{}`** structures. Scraped using [Pokemon Data Scraper](https://github.com/DetainedDeveloper/Pokemon-Data-Scraper)
 
 - For some reason, pokemon data **after 890**, was either empty or started with indexes **above 10000**
 - That's why, I recommend only using **890** pokemons for projects
